@@ -34,13 +34,6 @@
 
 
 <h2> Mis redes 😃: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2> 
-<a href = 'https://x.com/_Shezmu_'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://github.com/Shezmu7'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-<a href = 'https://www.facebook.com/luis.barrientos.31753058'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/></a>
-<a href = 'https://www.instagram.com/_shezmu._/?hl=es-es'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
-<a href = 'Discordapp/users/726197921409663057'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg"/></a>
-<a href = "mailto: luisorlando.barrientos1@alumnos.ulagos.cl"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-<a href = "mailto: xinlu.luis.barrientos.2003@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 <a href='https://x.com/_Shezmu_' style="display: flex; justify-content: center;">
   <img width='32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" alt="Twitter Icon"/>
 </a>
@@ -57,10 +50,6 @@
   <img width='32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg" alt="Instagram Icon"/>
 </a>
 
-<a href='Discordapp/users/726197921409663057' style="display: flex; justify-content: center;">
-  <img width='32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg" alt="Discord Icon"/>
-</a>
-
 <a href="mailto:luisorlando.barrientos1@alumnos.ulagos.cl" style="display: flex; justify-content: center;">
   <img src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" alt="Gmail Icon 1"/>
 </a>
@@ -69,8 +58,10 @@
   <img src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" alt="Gmail Icon 2"/>
 </a>
 
-<a href="mailto:xinlu.luis.barrientos.2003@gmail.com" style="display: flex; justify-content: center;">
-  <img src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" alt="Gmail Icon"/>
+<a href="#" style="display: inline-flex; align-items: center; text-decoration: none;">
+  <img width='32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg" alt="Discord Icon" />
 </a>
+<span style="margin-left: 8px;">Shezmu#1234</span>
+
 
   
