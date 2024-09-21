@@ -41,4 +41,8 @@
 <a href = 'Discordapp/users/726197921409663057'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg"/></a>
 <a href = "mailto: luisorlando.barrientos1@alumnos.ulagos.cl"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 <a href = "mailto: xinlu.luis.barrientos.2003@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href="mailto:xinlu.luis.barrientos.2003@gmail.com" style="display: flex; justify-content: center;">
+  <img src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" alt="Gmail Icon"/>
+</a>
+
   
